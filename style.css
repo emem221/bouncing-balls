@@ -1,0 +1,11 @@
+body {
+    margin: 0px;
+    background-color: rgb(56, 220, 250);
+    overflow: hidden;
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: rgb(56, 220, 250);
+    }
+}
